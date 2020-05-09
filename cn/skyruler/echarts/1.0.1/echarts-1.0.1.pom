@@ -20,14 +20,14 @@
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>SkyPerformer</groupId>
-      <artifactId>common</artifactId>
-      <version>unspecified</version>
+      <groupId>cn.skyruler</groupId>
+      <artifactId>logger</artifactId>
+      <version>1.0.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>cn.skyruler</groupId>
-      <artifactId>logger</artifactId>
+      <artifactId>common</artifactId>
       <version>1.0.1</version>
       <scope>compile</scope>
     </dependency>
